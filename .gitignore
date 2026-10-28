@@ -1,0 +1,4 @@
+/.gitignore          # General ignores (optional)
+.DS_Store
+.env
+node_modules/
